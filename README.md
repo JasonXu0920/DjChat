@@ -1,2 +1,2 @@
 # DjChat
-full stack django chat channel app
+full stack Django and React chat channel app
