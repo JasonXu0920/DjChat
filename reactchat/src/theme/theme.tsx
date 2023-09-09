@@ -33,6 +33,10 @@ export const createMuiTheme = () => {
         // google font family
         typography:{
             fontFamily:['IBM Plex Sans', 'sans-serif',].join(','),
+            body1:{
+                fontweight:500,
+                letterSpacing:'-0.5px',
+            }
         },
 
         primaryAppBar:{
